@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "BREWERY",
+        "confidence": 0.9332
+    },
+    "date": {
+        "value": "30-03-2018",
+        "confidence": 0.82
+    },
+    "items": [],
+    "total_amount": {
+        "value": "189.75",
+        "confidence": 0.9106
+    },
+    "flags": []
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "CROSS CHANNEL NEIWORK SDN BHD.",
+        "confidence": 0.6906
+    },
+    "date": {
+        "value": "31-12-2017",
+        "confidence": 0.83
+    },
+    "items": [],
+    "total_amount": {
+        "value": "10.33",
+        "confidence": 0.626
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

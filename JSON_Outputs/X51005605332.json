@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "POPULAR",
+        "confidence": 0.9343
+    },
+    "date": {
+        "value": "14-03-18",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "12.52",
+        "confidence": 0.9952
+    },
+    "flags": []
+}

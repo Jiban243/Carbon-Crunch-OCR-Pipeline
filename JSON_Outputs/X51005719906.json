@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "Zen and coffee 28 S/B",
+        "confidence": 0.714
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "105.00",
+        "confidence": 0.9932
+    },
+    "flags": []
+}

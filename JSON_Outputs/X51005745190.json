@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "SUPER SEVEN CASH & CARRY SDN 3HD",
+        "confidence": 0.6681
+    },
+    "date": {
+        "value": "2-62-2018",
+        "confidence": 0.89
+    },
+    "items": [],
+    "total_amount": {
+        "value": "663.00",
+        "confidence": 0.8951
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

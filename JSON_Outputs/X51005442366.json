@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "(pzfa3",
+        "confidence": 0.1582
+    },
+    "date": {
+        "value": "22-03-2018",
+        "confidence": 0.68
+    },
+    "items": [],
+    "total_amount": {
+        "value": "22.60",
+        "confidence": 0.9989
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": ".4\"g Glaf Restaurants Sdn Bhd",
+        "confidence": 0.3722
+    },
+    "date": {
+        "value": "02-03-2018",
+        "confidence": 0.9
+    },
+    "items": [
+        {
+            "name": "0.3 . Jalan SS21/400 Petaling",
+            "price": "39.47",
+            "confidence": 0.72
+        }
+    ],
+    "total_amount": {
+        "value": "39.47",
+        "confidence": 0.7179
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

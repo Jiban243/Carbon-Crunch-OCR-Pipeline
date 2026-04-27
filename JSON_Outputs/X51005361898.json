@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "TED HENG STATIDNERY % BOdkS",
+        "confidence": 0.1594
+    },
+    "date": {
+        "value": "15-01-2018",
+        "confidence": 0.95
+    },
+    "items": [],
+    "total_amount": {
+        "value": "55.10",
+        "confidence": 0.6226
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

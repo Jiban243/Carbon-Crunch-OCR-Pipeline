@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "MvUw KENG ELECTRICAL &",
+        "confidence": 0.2791
+    },
+    "date": {
+        "value": "01-02-2018",
+        "confidence": 0.9
+    },
+    "items": [],
+    "total_amount": {
+        "value": "16.22",
+        "confidence": 0.191
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

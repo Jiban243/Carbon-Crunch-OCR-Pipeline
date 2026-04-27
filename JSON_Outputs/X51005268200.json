@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "AIK",
+        "confidence": 0.998
+    },
+    "date": {
+        "value": "15-05-2017",
+        "confidence": 0.32
+    },
+    "items": [
+        {
+            "name": "No..47-2737ZLv14",
+            "price": "8.32",
+            "confidence": 0.01
+        }
+    ],
+    "total_amount": {
+        "value": "15328.00",
+        "confidence": 0.5079
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "Fozo 4t",
+        "confidence": 0.1606
+    },
+    "date": {
+        "value": "08-49-00",
+        "confidence": 0.96
+    },
+    "items": [],
+    "total_amount": {
+        "value": "373.50",
+        "confidence": 0.611
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

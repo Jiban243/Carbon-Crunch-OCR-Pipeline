@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "Ho3osv",
+        "confidence": 0.3268
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "14 Mar 2018",
+            "price": "18.40",
+            "confidence": 0.7
+        }
+    ],
+    "total_amount": {
+        "value": "55.50",
+        "confidence": 0.9287
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

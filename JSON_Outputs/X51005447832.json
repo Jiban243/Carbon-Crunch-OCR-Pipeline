@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "PETRODELI ENVEZPRISE",
+        "confidence": 0.4375
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "2.17",
+        "confidence": 0.6004
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

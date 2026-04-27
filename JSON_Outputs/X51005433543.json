@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "Aozasz",
+        "confidence": 0.766
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "1JMe 2018",
+            "price": "18.35",
+            "confidence": 0.59
+        }
+    ],
+    "total_amount": {
+        "value": "81.10",
+        "confidence": 0.5424
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

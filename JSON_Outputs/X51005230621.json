@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "51I Liactiap SOH BHD",
+        "confidence": 0.0563
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "7.30",
+        "confidence": 0.9546
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "STAR GROCER SDN BHD (1171881-W)",
+        "confidence": 0.9751
+    },
+    "date": {
+        "value": "25-03-18",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "67.00",
+        "confidence": 0.6585
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

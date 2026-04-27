@@ -1,0 +1,22 @@
+{
+    "store_name": {
+        "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "confidence": 0.9658
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "24 Mar 2018",
+            "price": "18.23",
+            "confidence": 0.49
+        }
+    ],
+    "total_amount": {
+        "value": "88.70",
+        "confidence": 0.7489
+    },
+    "flags": []
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KONHWA HARDWARE TRADING",
+        "confidence": 0.8201
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "5.00",
+        "confidence": 0.6463
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

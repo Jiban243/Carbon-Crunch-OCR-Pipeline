@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "REST AURANT",
+        "confidence": 0.6743
+    },
+    "date": {
+        "value": "9-3-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "65.20",
+        "confidence": 0.9312
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

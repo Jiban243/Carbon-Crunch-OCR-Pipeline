@@ -1,0 +1,30 @@
+{
+    "store_name": {
+        "value": "3 i2 0?",
+        "confidence": 0.2625
+    },
+    "date": {
+        "value": "02-02-2018",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "Jalan Ipoh Baiu 5. 0 Kuala Lumpur.",
+            "price": "5.20",
+            "confidence": 0.65
+        },
+        {
+            "name": "No. .968",
+            "price": "001269.75",
+            "confidence": 0.58
+        }
+    ],
+    "total_amount": {
+        "value": "001269.75",
+        "confidence": 0.58
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

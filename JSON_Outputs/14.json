@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "See back of receipt for your",
+        "confidence": 0.62
+    },
+    "date": {
+        "value": "05-04-17",
+        "confidence": 0.94
+    },
+    "items": [],
+    "total_amount": {
+        "value": "0523.23",
+        "confidence": 0.2473
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

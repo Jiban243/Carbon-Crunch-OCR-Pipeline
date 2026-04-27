@@ -1,0 +1,72 @@
+{
+    "store_name": {
+        "value": "WHOLE",
+        "confidence": 0.7873
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "TORTILLA\"$",
+            "price": "6.99",
+            "confidence": 0.77
+        },
+        {
+            "name": "YHIT",
+            "price": "3.69",
+            "confidence": 0.36
+        },
+        {
+            "name": "BEANS",
+            "price": "1.29",
+            "confidence": 0.54
+        },
+        {
+            "name": "Hangoes",
+            "price": "2.99",
+            "confidence": 0.6
+        },
+        {
+            "name": "Strauberrles",
+            "price": "2.99",
+            "confidence": 0.64
+        },
+        {
+            "name": "of f",
+            "price": "2.00",
+            "confidence": 0.76
+        },
+        {
+            "name": "Harves +",
+            "price": "2.69",
+            "confidence": 0.55
+        },
+        {
+            "name": "BLacK",
+            "price": "2.15",
+            "confidence": 0.34
+        },
+        {
+            "name": "Ovem",
+            "price": "3.99",
+            "confidence": 0.2
+        },
+        {
+            "name": "SLICED HICKORY",
+            "price": "3.99",
+            "confidence": 0.65
+        },
+        {
+            "name": "APPLES",
+            "price": "3.26",
+            "confidence": 0.6
+        }
+    ],
+    "total_amount": {
+        "value": "6.99",
+        "confidence": 0.986
+    },
+    "flags": []
+}

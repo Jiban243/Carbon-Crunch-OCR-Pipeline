@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "MyMydin Subang Bestari 2300",
+        "confidence": 0.7381
+    },
+    "date": {
+        "value": "15-01-2018",
+        "confidence": 0.63
+    },
+    "items": [],
+    "total_amount": {
+        "value": "94.50",
+        "confidence": 0.9892
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

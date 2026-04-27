@@ -1,0 +1,50 @@
+{
+    "store_name": {
+        "value": "9e",
+        "confidence": 0.0166
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "2X Hember 111826278335",
+            "price": "23.99",
+            "confidence": 0.63
+        },
+        {
+            "name": "633561 KS DICED TOM",
+            "price": "6.93",
+            "confidence": 0.31
+        },
+        {
+            "name": "967596 JACKORGSALSA",
+            "price": "2.97",
+            "confidence": 0.87
+        },
+        {
+            "name": "18CT",
+            "price": "8781.37",
+            "confidence": 0.54
+        },
+        {
+            "name": "404609 ECO HALF PAN",
+            "price": "6.49",
+            "confidence": 0.89
+        },
+        {
+            "name": "55992 GRND TURKEY",
+            "price": "18.47",
+            "confidence": 0.88
+        }
+    ],
+    "total_amount": {
+        "value": "8781.37",
+        "confidence": 0.5359
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

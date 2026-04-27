@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "Segi Cash & Carry Sdn, Bhd/317041-W",
+        "confidence": 0.7476
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "674.00",
+        "confidence": 0.7522
+    },
+    "flags": []
+}

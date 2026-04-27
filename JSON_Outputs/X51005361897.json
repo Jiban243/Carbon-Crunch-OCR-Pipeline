@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "TED HENG STATIDNERY & BQDKS",
+        "confidence": 0.5712
+    },
+    "date": {
+        "value": "17-01-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "28.00",
+        "confidence": 0.9985
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

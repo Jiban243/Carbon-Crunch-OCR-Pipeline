@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "SUSHI MENTAI",
+        "confidence": 0.6225
+    },
+    "date": {
+        "value": "31-03-2018",
+        "confidence": 0.77
+    },
+    "items": [],
+    "total_amount": {
+        "value": "65.55",
+        "confidence": 0.603
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

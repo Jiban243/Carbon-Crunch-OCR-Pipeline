@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "TEQ HENG STATIONERY E BqOKS",
+        "confidence": 0.2306
+    },
+    "date": {
+        "value": "29-01-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "6.00",
+        "confidence": 0.9011
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

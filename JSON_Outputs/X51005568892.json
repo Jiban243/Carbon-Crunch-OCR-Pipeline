@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "EVERGREEN LighT SdN BHD",
+        "confidence": 0.5094
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "34.57",
+        "confidence": 0.1954
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Aozo26",
+        "confidence": 0.3161
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "07 Mar 2018",
+            "price": "18.22",
+            "confidence": 0.48
+        }
+    ],
+    "total_amount": {
+        "value": "98.20",
+        "confidence": 0.6175
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "store_name": {
+        "value": "tan woon yann",
+        "confidence": 0.9134
+    },
+    "date": {
+        "value": "12-01-19",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "8970569",
+            "price": "19.00",
+            "confidence": 0.65
+        },
+        {
+            "name": "9557031100236",
+            "price": "3.02",
+            "confidence": 0.93
+        },
+        {
+            "name": "69358 18350846",
+            "price": "3.88",
+            "confidence": 0.71
+        }
+    ],
+    "total_amount": {
+        "value": "33.92",
+        "confidence": 0.7013
+    },
+    "flags": []
+}

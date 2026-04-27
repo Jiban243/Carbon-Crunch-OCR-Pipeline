@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "GREEN LANE PHARMACY  SIN  BHD",
+        "confidence": 0.3639
+    },
+    "date": {
+        "value": "1-8-2018",
+        "confidence": 0.72
+    },
+    "items": [],
+    "total_amount": {
+        "value": "40.80",
+        "confidence": 0.6631
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

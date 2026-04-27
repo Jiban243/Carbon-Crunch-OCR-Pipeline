@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "3 1  0> Pig",
+        "confidence": 0.3722
+    },
+    "date": {
+        "value": "01-02-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "36.04",
+        "confidence": 0.9945
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

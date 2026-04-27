@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "POSTEL)",
+        "confidence": 0.8143
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "2337.00",
+        "confidence": 0.7526
+    },
+    "flags": []
+}

@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "tan woon yann",
+        "confidence": 0.9912
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "1o.4.JALAN DEDAP 13",
+            "price": "122.12",
+            "confidence": 0.65
+        }
+    ],
+    "total_amount": {
+        "value": "122.12",
+        "confidence": 0.6467
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

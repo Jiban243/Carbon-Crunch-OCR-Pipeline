@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "Sun Wong",
+        "confidence": 0.5207
+    },
+    "date": {
+        "value": "21-02-18",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "11.19",
+        "confidence": 0.8881
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

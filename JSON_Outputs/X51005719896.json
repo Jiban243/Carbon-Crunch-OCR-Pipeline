@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "THE  STOFE  (HALAYGIA) S1N EHD  (8193K)\"",
+        "confidence": 0.0841
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "35.82",
+        "confidence": 0.9173
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

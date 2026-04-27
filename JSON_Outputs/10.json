@@ -1,0 +1,84 @@
+{
+    "store_name": {
+        "value": "SBAGI",
+        "confidence": 0.3553
+    },
+    "date": {
+        "value": "23-02-21",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "LAZENBY WORCESTER SAUCE 12SML",
+            "price": "17.99",
+            "confidence": 0.31
+        },
+        {
+            "name": "8OGR",
+            "price": "16.99",
+            "confidence": 0.89
+        },
+        {
+            "name": "sooGR",
+            "price": "33.99",
+            "confidence": 0.28
+        },
+        {
+            "name": "400G",
+            "price": "64.99",
+            "confidence": 0.28
+        },
+        {
+            "name": "375ML",
+            "price": "14.99",
+            "confidence": 0.4
+        },
+        {
+            "name": "SPAR COOKING OIL",
+            "price": "12.99",
+            "confidence": 0.65
+        },
+        {
+            "name": "F/l ENGLISH CUCUMB",
+            "price": "20.99",
+            "confidence": 0.49
+        },
+        {
+            "name": "8OGR",
+            "price": "16.99",
+            "confidence": 0.58
+        },
+        {
+            "name": "GRAPES MIXED TUB",
+            "price": "24.99",
+            "confidence": 0.68
+        },
+        {
+            "name": "5OOGR",
+            "price": "11.99",
+            "confidence": 0.54
+        },
+        {
+            "name": "27OGR",
+            "price": "27.99",
+            "confidence": 0.55
+        },
+        {
+            "name": "CARRIER BAG 24L",
+            "price": "0.75",
+            "confidence": 0.45
+        },
+        {
+            "name": "6kg @",
+            "price": "0.59",
+            "confidence": 0.91
+        }
+    ],
+    "total_amount": {
+        "value": "218.68",
+        "confidence": 0.9994
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

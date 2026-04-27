@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "HON HWA KARDWARE TRADING",
+        "confidence": 0.6014
+    },
+    "date": {
+        "value": "10-20-37",
+        "confidence": 0.78
+    },
+    "items": [],
+    "total_amount": {
+        "value": "10.40",
+        "confidence": 0.9435
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

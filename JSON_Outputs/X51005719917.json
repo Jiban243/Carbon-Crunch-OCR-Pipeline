@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "TAX INVOICE",
+        "confidence": 0.6483
+    },
+    "date": {
+        "value": "26-03-18",
+        "confidence": 0.99
+    },
+    "items": [],
+    "total_amount": {
+        "value": "60.60",
+        "confidence": 0.9775
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

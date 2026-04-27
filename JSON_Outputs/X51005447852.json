@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "99 SFEED HART S/B (519537-X)",
+        "confidence": 0.6675
+    },
+    "date": {
+        "value": "20-02-18",
+        "confidence": 0.81
+    },
+    "items": [],
+    "total_amount": {
+        "value": "9.90",
+        "confidence": 0.4831
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

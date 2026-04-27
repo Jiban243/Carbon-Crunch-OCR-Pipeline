@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Anz Ilz",
+        "confidence": 0.3802
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "25 Mas 2018",
+            "price": "18.26",
+            "confidence": 0.76
+        }
+    ],
+    "total_amount": {
+        "value": "1001.00",
+        "confidence": 0.3426
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

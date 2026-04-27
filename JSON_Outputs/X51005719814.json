@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KIKU",
+        "confidence": 0.6575
+    },
+    "date": {
+        "value": "17-1-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "30.00",
+        "confidence": 0.9949
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

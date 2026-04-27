@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "99 SPEED HART",
+        "confidence": 0.574
+    },
+    "date": {
+        "value": "24-01-18",
+        "confidence": 0.89
+    },
+    "items": [],
+    "total_amount": {
+        "value": "2.50",
+        "confidence": 0.9386
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

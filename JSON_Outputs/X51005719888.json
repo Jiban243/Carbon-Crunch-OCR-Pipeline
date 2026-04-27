@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "POTTERS",
+        "confidence": 0.9994
+    },
+    "date": {
+        "value": "04-01-2018",
+        "confidence": 0.74
+    },
+    "items": [],
+    "total_amount": {
+        "value": "40.00",
+        "confidence": 0.8831
+    },
+    "flags": []
+}

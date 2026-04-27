@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "SLF",
+        "confidence": 0.9962
+    },
+    "date": {
+        "value": "02-02-2018",
+        "confidence": 0.57
+    },
+    "items": [],
+    "total_amount": {
+        "value": "45.28",
+        "confidence": 0.948
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

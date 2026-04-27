@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "AEON Co , ' (M) BHD ( 126926-H)",
+        "confidence": 0.2836
+    },
+    "date": {
+        "value": "14-03-2018",
+        "confidence": 0.7
+    },
+    "items": [],
+    "total_amount": {
+        "value": "37.75",
+        "confidence": 0.9731
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

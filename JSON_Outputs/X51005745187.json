@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "G(J)DS S(H.D ARE Nvot RETLIiRNABLE: (it9l YOU",
+        "confidence": 0.051
+    },
+    "date": {
+        "value": "03-02-2018",
+        "confidence": 0.61
+    },
+    "items": [],
+    "total_amount": {
+        "value": "100.00",
+        "confidence": 0.9919
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "TQFORShOPPING WTH mYNEWS com",
+        "confidence": 0.3078
+    },
+    "date": {
+        "value": "23-03-2018",
+        "confidence": 0.97
+    },
+    "items": [],
+    "total_amount": {
+        "value": "20.00",
+        "confidence": 0.9337
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

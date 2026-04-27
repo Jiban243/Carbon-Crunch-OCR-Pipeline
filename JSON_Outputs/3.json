@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Ss;",
+        "confidence": 0.4218
+    },
+    "date": {
+        "value": "04-27-19",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "2440053523",
+            "price": "4.64",
+            "confidence": 0.49
+        }
+    ],
+    "total_amount": {
+        "value": "12.69",
+        "confidence": 0.5789
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

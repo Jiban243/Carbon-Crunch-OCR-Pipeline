@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "#000002 BAIFU (M) Sdn 'Bhd",
+        "confidence": 0.5337
+    },
+    "date": {
+        "value": "20-03-2018",
+        "confidence": 0.76
+    },
+    "items": [],
+    "total_amount": {
+        "value": "35.40",
+        "confidence": 0.7061
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

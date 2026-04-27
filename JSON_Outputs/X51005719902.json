@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KING '$ CONFECTIONERY S/B '273500-U (KSB)",
+        "confidence": 0.4891
+    },
+    "date": {
+        "value": "11-03-18",
+        "confidence": 0.91
+    },
+    "items": [],
+    "total_amount": {
+        "value": "25.15",
+        "confidence": 0.9631
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

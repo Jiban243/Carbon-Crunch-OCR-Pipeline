@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "SUPER SEVEN CASH & CARRY SON BHD",
+        "confidence": 0.56
+    },
+    "date": {
+        "value": "27-01-201",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "59.00",
+        "confidence": 0.6179
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

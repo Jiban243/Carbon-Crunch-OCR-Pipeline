@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "39 STEED MART 5/8 (519537.X}",
+        "confidence": 0.2384
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "150.33",
+        "confidence": 0.0594
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

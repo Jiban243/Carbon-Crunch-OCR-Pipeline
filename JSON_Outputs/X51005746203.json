@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": ",SLPER SEVEN CASH & CARRX SoN BHD",
+        "confidence": 0.5637
+    },
+    "date": {
+        "value": "01-03-2018",
+        "confidence": 0.97
+    },
+    "items": [],
+    "total_amount": {
+        "value": "209.53",
+        "confidence": 0.9702
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

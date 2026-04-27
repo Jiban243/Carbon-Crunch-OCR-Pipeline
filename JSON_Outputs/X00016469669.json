@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "tan",
+        "confidence": 1.0
+    },
+    "date": {
+        "value": "09-01-2019",
+        "confidence": 0.99
+    },
+    "items": [],
+    "total_amount": {
+        "value": "101.00",
+        "confidence": 0.7318
+    },
+    "flags": []
+}

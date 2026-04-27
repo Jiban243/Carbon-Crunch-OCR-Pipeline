@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Gerbang Alaf Restaurants Sdn Bhd",
+        "confidence": 0.9859
+    },
+    "date": {
+        "value": "18-03-2018",
+        "confidence": 0.54
+    },
+    "items": [
+        {
+            "name": "Jalan SS21/400 Petaling",
+            "price": "39.47",
+            "confidence": 0.62
+        }
+    ],
+    "total_amount": {
+        "value": "39.47",
+        "confidence": 0.623
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

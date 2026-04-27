@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Gerbang Alaf Restaurants Sdn Bhd",
+        "confidence": 0.9823
+    },
+    "date": {
+        "value": "11-03-2018",
+        "confidence": 0.53
+    },
+    "items": [
+        {
+            "name": "No.3. Jalan SS21/400 Petal ing",
+            "price": "39.47",
+            "confidence": 0.52
+        }
+    ],
+    "total_amount": {
+        "value": "39.47",
+        "confidence": 0.5232
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Dsez ",
+        "confidence": 0.273
+    },
+    "date": {
+        "value": "18-01-2018",
+        "confidence": 0.57
+    },
+    "items": [
+        {
+            "name": "No.3. Jalan SS21/400 Petaling",
+            "price": "39.47",
+            "confidence": 0.63
+        }
+    ],
+    "total_amount": {
+        "value": "50.00",
+        "confidence": 0.9627
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

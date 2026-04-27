@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "3180303",
+        "confidence": 1.0
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "187057.75",
+        "confidence": 0.614
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

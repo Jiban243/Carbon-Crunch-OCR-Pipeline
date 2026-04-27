@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "SWc",
+        "confidence": 0.4591
+    },
+    "date": {
+        "value": "28-03-2018",
+        "confidence": 0.89
+    },
+    "items": [],
+    "total_amount": {
+        "value": "28.30",
+        "confidence": 0.9814
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

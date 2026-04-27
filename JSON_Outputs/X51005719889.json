@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "HENG",
+        "confidence": 0.9997
+    },
+    "date": {
+        "value": "04-01-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "42.00",
+        "confidence": 0.7539
+    },
+    "flags": []
+}

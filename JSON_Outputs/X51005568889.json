@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KON KWA HARDWARE TRADING",
+        "confidence": 0.7766
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "9335.48",
+        "confidence": 0.3772
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

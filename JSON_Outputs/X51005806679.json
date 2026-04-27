@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "LEE WAR FLORIST SDN BHD",
+        "confidence": 0.8844
+    },
+    "date": {
+        "value": "32-02-2018",
+        "confidence": 0.63
+    },
+    "items": [],
+    "total_amount": {
+        "value": "400.00",
+        "confidence": 0.9884
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

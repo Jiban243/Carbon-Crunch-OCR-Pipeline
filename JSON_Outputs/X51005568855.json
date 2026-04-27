@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "POPULAR BOok",
+        "confidence": 0.7412
+    },
+    "date": {
+        "value": "23-12-17",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "140.65",
+        "confidence": 0.6931
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

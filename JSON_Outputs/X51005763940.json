@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "HauveySqaw",
+        "confidence": 0.1109
+    },
+    "date": {
+        "value": "00-88-5200",
+        "confidence": 0.95
+    },
+    "items": [],
+    "total_amount": {
+        "value": "60.00",
+        "confidence": 0.5672
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

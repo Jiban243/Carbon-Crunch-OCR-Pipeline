@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "ZCONSAVEI",
+        "confidence": 0.3613
+    },
+    "date": {
+        "value": "22-03-18",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "6.25",
+        "confidence": 0.4326
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

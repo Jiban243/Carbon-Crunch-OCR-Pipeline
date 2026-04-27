@@ -1,0 +1,32 @@
+{
+    "store_name": {
+        "value": "Seo back",
+        "confidence": 0.9894
+    },
+    "date": {
+        "value": "11-13-17",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "wING PLATE 020108870398",
+            "price": "3.98",
+            "confidence": 0.82
+        },
+        {
+            "name": "063099656595",
+            "price": "4.88",
+            "confidence": 1.0
+        },
+        {
+            "name": "063099656644",
+            "price": "12.88",
+            "confidence": 0.96
+        }
+    ],
+    "total_amount": {
+        "value": "23.19",
+        "confidence": 0.7629
+    },
+    "flags": []
+}

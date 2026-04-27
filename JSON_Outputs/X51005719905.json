@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "SAINT HEART PASTRY",
+        "confidence": 0.996
+    },
+    "date": {
+        "value": "25-03-2018",
+        "confidence": 0.83
+    },
+    "items": [],
+    "total_amount": {
+        "value": "10.56",
+        "confidence": 0.6927
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "MR . @.I.Y. (KUCHAi)",
+        "confidence": 0.5373
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "13.09",
+        "confidence": 0.9322
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

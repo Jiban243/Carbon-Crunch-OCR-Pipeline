@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "IXIREE",
+        "confidence": 0.5386
+    },
+    "date": {
+        "value": "12-03-2018",
+        "confidence": 0.97
+    },
+    "items": [],
+    "total_amount": {
+        "value": "343.95",
+        "confidence": 0.9771
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

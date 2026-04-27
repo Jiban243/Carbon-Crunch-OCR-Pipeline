@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "32 PUB & BISTRO own by CNU  TRADING",
+        "confidence": 0.5837
+    },
+    "date": {
+        "value": "10-03-2018",
+        "confidence": 0.91
+    },
+    "items": [],
+    "total_amount": {
+        "value": "174.25",
+        "confidence": 0.664
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "SWC ENTERPEISE SDN EHD",
+        "confidence": 0.371
+    },
+    "date": {
+        "value": "06-03-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "05.56",
+        "confidence": 0.5067
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

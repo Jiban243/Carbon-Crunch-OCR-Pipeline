@@ -1,0 +1,57 @@
+{
+    "store_name": {
+        "value": "tan woon yann",
+        "confidence": 0.9772
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "95S'41650u133",
+            "price": "3.11",
+            "confidence": 0.33
+        },
+        {
+            "name": "9555416.,0i 6",
+            "price": "4.62",
+            "confidence": 0.12
+        },
+        {
+            "name": "(079..6700608+",
+            "price": "11.23",
+            "confidence": 0.07
+        },
+        {
+            "name": "4552651400385",
+            "price": "7.45",
+            "confidence": 0.39
+        },
+        {
+            "name": "4.5u",
+            "price": "4.50",
+            "confidence": 0.69
+        },
+        {
+            "name": "Iota |",
+            "price": "30.91",
+            "confidence": 0.41
+        },
+        {
+            "name": "IUAL RQUNDE 0",
+            "price": "30.90",
+            "confidence": 0.06
+        },
+        {
+            "name": "chah;l",
+            "price": "20.10",
+            "confidence": 0.29
+        }
+    ],
+    "total_amount": {
+        "value": "30.91",
+        "confidence": 0.8575
+    },
+    "flags": []
+}

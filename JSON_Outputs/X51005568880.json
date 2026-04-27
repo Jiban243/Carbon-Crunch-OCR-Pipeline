@@ -1,0 +1,20 @@
+{
+    "store_name": {
+        "value": "MR.D, I. Y(M)SDM BHD",
+        "confidence": 0.5015
+    },
+    "date": {
+        "value": "3-04-06",
+        "confidence": 0.66
+    },
+    "items": [],
+    "total_amount": {
+        "value": "34.10",
+        "confidence": 0.6035
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

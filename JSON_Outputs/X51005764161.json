@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "39 SPEED Mart 5/8 {519537-X)",
+        "confidence": 0.3695
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "98.90",
+        "confidence": 0.7801
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

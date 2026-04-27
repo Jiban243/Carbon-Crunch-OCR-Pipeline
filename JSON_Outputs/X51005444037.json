@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "Nandos:",
+        "confidence": 0.8739
+    },
+    "date": {
+        "value": "00-88-6555",
+        "confidence": 0.7
+    },
+    "items": [],
+    "total_amount": {
+        "value": "129.30",
+        "confidence": 0.8349
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

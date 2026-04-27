@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "Cash Sale",
+        "confidence": 0.8637
+    },
+    "date": {
+        "value": "03-18-1999",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "13.50",
+        "confidence": 0.8003
+    },
+    "flags": []
+}

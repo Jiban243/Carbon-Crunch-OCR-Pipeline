@@ -1,0 +1,22 @@
+{
+    "store_name": {
+        "value": "107",
+        "confidence": 1.0
+    },
+    "date": {
+        "value": "10-03-2018",
+        "confidence": 0.83
+    },
+    "items": [
+        {
+            "name": "No.3 . Jalan Ss21/400 Peta} ing",
+            "price": "39.47",
+            "confidence": 0.65
+        }
+    ],
+    "total_amount": {
+        "value": "50.00",
+        "confidence": 0.9901
+    },
+    "flags": []
+}

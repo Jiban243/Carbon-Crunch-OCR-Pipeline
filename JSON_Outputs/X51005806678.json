@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "KAISON  FURNISHING SON BHD",
+        "confidence": 0.8536
+    },
+    "date": {
+        "value": "29-01-18",
+        "confidence": 0.85
+    },
+    "items": [],
+    "total_amount": {
+        "value": "443.71",
+        "confidence": 0.9836
+    },
+    "flags": []
+}

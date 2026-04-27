@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "ROCKU",
+        "confidence": 0.9994
+    },
+    "date": {
+        "value": "19-02-2018",
+        "confidence": 0.92
+    },
+    "items": [],
+    "total_amount": {
+        "value": "201.55",
+        "confidence": 0.8548
+    },
+    "flags": []
+}

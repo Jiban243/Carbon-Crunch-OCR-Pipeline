@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "MHH Aeon Tebrau City",
+        "confidence": 0.7755
+    },
+    "date": {
+        "value": "11-03-2018",
+        "confidence": 0.87
+    },
+    "items": [],
+    "total_amount": {
+        "value": "59.00",
+        "confidence": 0.837
+    },
+    "flags": []
+}

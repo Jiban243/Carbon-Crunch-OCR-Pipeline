@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "BLC",
+        "confidence": 0.5234
+    },
+    "date": {
+        "value": "08-03-18",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "T. 93 7358",
+            "price": "03.20",
+            "confidence": 0.48
+        }
+    ],
+    "total_amount": {
+        "value": "81.00",
+        "confidence": 0.9989
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

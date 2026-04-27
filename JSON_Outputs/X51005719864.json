@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "FUN N CHEER (MALURI)",
+        "confidence": 0.3132
+    },
+    "date": {
+        "value": "05-01-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "29.80",
+        "confidence": 0.9532
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

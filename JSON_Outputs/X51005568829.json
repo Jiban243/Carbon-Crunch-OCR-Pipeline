@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "THAI DELICIOUS RESTAURANT",
+        "confidence": 0.8518
+    },
+    "date": {
+        "value": "02-02-2017",
+        "confidence": 0.92
+    },
+    "items": [],
+    "total_amount": {
+        "value": "100.00",
+        "confidence": 0.9821
+    },
+    "flags": []
+}

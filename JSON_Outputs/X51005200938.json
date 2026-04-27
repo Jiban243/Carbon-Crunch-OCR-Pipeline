@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "Asxolis",
+        "confidence": 0.6686
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "112.48",
+        "confidence": 0.9982
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

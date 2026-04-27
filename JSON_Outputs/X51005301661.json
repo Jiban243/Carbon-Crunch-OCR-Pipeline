@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "LIGHTROOM_ GALLERY",
+        "confidence": 0.621
+    },
+    "date": {
+        "value": "20-12-2017",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "10.35",
+        "confidence": 0.8397
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

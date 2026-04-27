@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "TRI SHAAS SDN BHD_(728515-H)",
+        "confidence": 0.4663
+    },
+    "date": {
+        "value": "13-03-2017",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "5.03",
+        "confidence": 0.4407
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

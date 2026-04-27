@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "RESTAURANT",
+        "confidence": 0.8742
+    },
+    "date": {
+        "value": "23-2-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "110.00",
+        "confidence": 0.9992
+    },
+    "flags": []
+}

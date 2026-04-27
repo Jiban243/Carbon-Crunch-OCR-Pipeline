@@ -1,0 +1,20 @@
+{
+    "store_name": {
+        "value": "CHOP YEW LIAN",
+        "confidence": 0.6826
+    },
+    "date": {
+        "value": "23-03-17",
+        "confidence": 0.53
+    },
+    "items": [],
+    "total_amount": {
+        "value": "14.08",
+        "confidence": 0.3256
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

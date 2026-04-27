@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "us feedbback",
+        "confidence": 0.8874
+    },
+    "date": {
+        "value": "10-18-20",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "49.90",
+        "confidence": 0.9865
+    },
+    "flags": []
+}

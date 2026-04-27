@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "TED HENG STATIDNERY",
+        "confidence": 0.6422
+    },
+    "date": {
+        "value": "18-01-2018",
+        "confidence": 0.8
+    },
+    "items": [
+        {
+            "name": "71 9872",
+            "price": "03.32",
+            "confidence": 0.85
+        }
+    ],
+    "total_amount": {
+        "value": "6.00",
+        "confidence": 0.7206
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

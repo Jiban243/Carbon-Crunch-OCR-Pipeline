@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "'SWC ENTERPRISE SDN BAD",
+        "confidence": 0.6627
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "50.20",
+        "confidence": 0.6429
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "Sulyway442210-0 Phone 03-78870693",
+        "confidence": 0.6573
+    },
+    "date": {
+        "value": "14-02-2018",
+        "confidence": 0.89
+    },
+    "items": [
+        {
+            "name": "Served by. JOSEPK 14/02/2018 .31",
+            "price": "11.13",
+            "confidence": 0.69
+        }
+    ],
+    "total_amount": {
+        "value": "11.90",
+        "confidence": 0.7441
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

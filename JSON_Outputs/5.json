@@ -1,0 +1,29 @@
+{
+    "store_name": {
+        "value": "WHOTLEE FOOD",
+        "confidence": 0.2924
+    },
+    "date": {
+        "value": "9-15-2020",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "KTTL SEA SALT Pot CHP",
+            "price": "81.29",
+            "confidence": 0.43
+        },
+        {
+            "name": "CHEF PLATE MEAL $10",
+            "price": "10.00",
+            "confidence": 0.62
+        }
+    ],
+    "total_amount": {
+        "value": "828.28",
+        "confidence": 0.7051
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

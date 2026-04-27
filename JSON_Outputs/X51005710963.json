@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "TS TooLS @ARINARE 4 RCIR Y SR BD",
+        "confidence": 0.0109
+    },
+    "date": {
+        "value": "21-03-2018",
+        "confidence": 0.86
+    },
+    "items": [],
+    "total_amount": {
+        "value": "13.40",
+        "confidence": 0.4007
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "PEIROH BKT  LANJAN  SB",
+        "confidence": 0.4133
+    },
+    "date": {
+        "value": "01-02-2018",
+        "confidence": 0.92
+    },
+    "items": [],
+    "total_amount": {
+        "value": "6.00",
+        "confidence": 0.4541
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

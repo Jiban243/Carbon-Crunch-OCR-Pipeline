@@ -1,0 +1,22 @@
+{
+    "store_name": {
+        "value": "Subway#42210-0 Phone 03-78870693",
+        "confidence": 0.822
+    },
+    "date": {
+        "value": "27-02-2018",
+        "confidence": 0.92
+    },
+    "items": [
+        {
+            "name": "Served by. rojan 27/02/2018 .47",
+            "price": "15.32",
+            "confidence": 0.72
+        }
+    ],
+    "total_amount": {
+        "value": "15.32",
+        "confidence": 0.7249
+    },
+    "flags": []
+}

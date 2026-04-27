@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "premio",
+        "confidence": 0.5034
+    },
+    "date": {
+        "value": "20-03-2018",
+        "confidence": 0.9
+    },
+    "items": [],
+    "total_amount": {
+        "value": "715.40",
+        "confidence": 0.1917
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

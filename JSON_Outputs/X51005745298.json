@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "Tysnvvttt~0y \"",
+        "confidence": 0.0044
+    },
+    "date": {
+        "value": "31-03-18",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "(ICE)",
+            "price": "2.50",
+            "confidence": 0.57
+        }
+    ],
+    "total_amount": {
+        "value": "6.00",
+        "confidence": 0.9708
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

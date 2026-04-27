@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "TEQ HENG STATIQNERY ; RQDKS",
+        "confidence": 0.3669
+    },
+    "date": {
+        "value": "23-01-2018",
+        "confidence": 0.93
+    },
+    "items": [],
+    "total_amount": {
+        "value": "18.00",
+        "confidence": 0.6418
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

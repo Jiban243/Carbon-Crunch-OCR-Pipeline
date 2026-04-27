@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "(Is",
+        "confidence": 0.776
+    },
+    "date": {
+        "value": "10-31-21",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "{ie/a85i9i",
+            "price": "0.98",
+            "confidence": 0.04
+        }
+    ],
+    "total_amount": {
+        "value": "1623.39",
+        "confidence": 0.1316
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

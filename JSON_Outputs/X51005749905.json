@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "ENW Hardware Centre (M) Sdn: Bhd:",
+        "confidence": 0.7343
+    },
+    "date": {
+        "value": "10-03-2018",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "34.00",
+        "confidence": 0.9999
+    },
+    "flags": []
+}

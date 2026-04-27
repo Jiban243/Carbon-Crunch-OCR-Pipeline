@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "FUYI MINkMARKET",
+        "confidence": 0.7629
+    },
+    "date": {
+        "value": "43-45-470",
+        "confidence": 0.64
+    },
+    "items": [],
+    "total_amount": {
+        "value": "50.00",
+        "confidence": 0.5868
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

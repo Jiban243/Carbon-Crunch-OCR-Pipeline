@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "MODERN",
+        "confidence": 0.8742
+    },
+    "date": {
+        "value": "04-12-2016",
+        "confidence": 0.74
+    },
+    "items": [],
+    "total_amount": {
+        "value": "141.51",
+        "confidence": 0.9933
+    },
+    "flags": []
+}

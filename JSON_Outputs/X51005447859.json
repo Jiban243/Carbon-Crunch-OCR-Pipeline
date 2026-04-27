@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "PASARAYA BORONG PINTAR",
+        "confidence": 0.9665
+    },
+    "date": {
+        "value": "14-02-2018",
+        "confidence": 0.86
+    },
+    "items": [],
+    "total_amount": {
+        "value": "10.00",
+        "confidence": 0.9977
+    },
+    "flags": []
+}

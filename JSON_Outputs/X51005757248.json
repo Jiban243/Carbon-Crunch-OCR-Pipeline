@@ -1,0 +1,35 @@
+{
+    "store_name": {
+        "value": "3(80z02)",
+        "confidence": 0.0467
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "Ix 400o)65Y6775",
+            "price": "13.94",
+            "confidence": 0.09
+        },
+        {
+            "name": "I> 180q0) 2616775",
+            "price": "13.53",
+            "confidence": 0.06
+        },
+        {
+            "name": "Subs-fotal",
+            "price": "42.48",
+            "confidence": 0.55
+        }
+    ],
+    "total_amount": {
+        "value": "50.00",
+        "confidence": 0.503
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

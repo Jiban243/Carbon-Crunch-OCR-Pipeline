@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "RESTORAN  HASSANBTSTRO",
+        "confidence": 0.6101
+    },
+    "date": {
+        "value": "12-28-2017",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "17.32",
+        "confidence": 0.5501
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KEDAI BUKU NEW ACHEIVERS",
+        "confidence": 0.6811
+    },
+    "date": {
+        "value": "28-12-2017",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "50.00",
+        "confidence": 0.9999
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

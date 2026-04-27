@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "DOLLAR TREE",
+        "confidence": 0.9731
+    },
+    "date": {
+        "value": "9-17-22",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "825.44",
+        "confidence": 0.5358
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

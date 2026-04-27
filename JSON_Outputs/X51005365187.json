@@ -1,0 +1,22 @@
+{
+    "store_name": {
+        "value": "3-1707067",
+        "confidence": 0.7608
+    },
+    "date": {
+        "value": "02-03-2018",
+        "confidence": 1.0
+    },
+    "items": [
+        {
+            "name": "SEKSYEN J00 SERI KEMBANGAN.",
+            "price": "10.43",
+            "confidence": 0.76
+        }
+    ],
+    "total_amount": {
+        "value": "31.90",
+        "confidence": 0.9769
+    },
+    "flags": []
+}

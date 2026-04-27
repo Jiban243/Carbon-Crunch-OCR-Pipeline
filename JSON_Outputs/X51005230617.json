@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "Jcl",
+        "confidence": 0.3006
+    },
+    "date": {
+        "value": "18-01-2018",
+        "confidence": 0.82
+    },
+    "items": [
+        {
+            "name": "No.3. Jalan SS21/400 Petal ing",
+            "price": "39.47",
+            "confidence": 0.8
+        }
+    ],
+    "total_amount": {
+        "value": "73.40",
+        "confidence": 0.9925
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

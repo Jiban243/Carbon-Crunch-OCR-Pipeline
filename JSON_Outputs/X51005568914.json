@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "IKANO  HANDELSDN BHD",
+        "confidence": 0.4258
+    },
+    "date": {
+        "value": "09-08-17",
+        "confidence": 0.79
+    },
+    "items": [],
+    "total_amount": {
+        "value": "99.80",
+        "confidence": 0.981
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

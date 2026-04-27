@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "CROSS CHANNEL NETWORK SDN: BHD:",
+        "confidence": 0.6264
+    },
+    "date": {
+        "value": "29-01-2018",
+        "confidence": 0.99
+    },
+    "items": [],
+    "total_amount": {
+        "value": "6.99",
+        "confidence": 0.5153
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

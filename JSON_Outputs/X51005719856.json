@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "baskin(}[robbiNs",
+        "confidence": 0.2624
+    },
+    "date": {
+        "value": "15-02-2018",
+        "confidence": 0.77
+    },
+    "items": [],
+    "total_amount": {
+        "value": "22.00",
+        "confidence": 0.9985
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}

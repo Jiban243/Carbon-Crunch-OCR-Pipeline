@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "HUGO TRADING SDN BHD",
+        "confidence": 0.9983
+    },
+    "date": {
+        "value": "13-01-2018",
+        "confidence": 0.92
+    },
+    "items": [],
+    "total_amount": {
+        "value": "51.00",
+        "confidence": 0.9814
+    },
+    "flags": []
+}

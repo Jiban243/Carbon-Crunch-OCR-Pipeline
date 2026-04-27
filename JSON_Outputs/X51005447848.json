@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "LIAN CHI PU TIAN VEGETARIAN",
+        "confidence": 0.9978
+    },
+    "date": {
+        "value": "06-01-18",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "417.80",
+        "confidence": 0.493
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

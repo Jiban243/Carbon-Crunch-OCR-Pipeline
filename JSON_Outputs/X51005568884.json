@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "MR , D.I.Y. Sdn",
+        "confidence": 0.3126
+    },
+    "date": {
+        "value": "24-11-17",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "13.11",
+        "confidence": 0.5994
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

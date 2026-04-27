@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "MYDIN",
+        "confidence": 0.9228
+    },
+    "date": {
+        "value": "4-02-2017",
+        "confidence": 0.72
+    },
+    "items": [],
+    "total_amount": {
+        "value": "85.10",
+        "confidence": 0.9945
+    },
+    "flags": []
+}

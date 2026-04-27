@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "99 SpCEd MAsT S/8 {589537-X)",
+        "confidence": 0.176
+    },
+    "date": {
+        "value": "2-1-17",
+        "confidence": 0.68
+    },
+    "items": [
+        {
+            "name": "2973 PEOZASIRE COMPLETE Sjs",
+            "price": "17.90",
+            "confidence": 0.19
+        }
+    ],
+    "total_amount": {
+        "value": "160.17",
+        "confidence": 0.9968
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

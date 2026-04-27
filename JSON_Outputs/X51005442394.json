@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Kn2126",
+        "confidence": 0.0683
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "30 Mar 2018",
+            "price": "18.17",
+            "confidence": 0.88
+        }
+    ],
+    "total_amount": {
+        "value": "98.20",
+        "confidence": 0.663
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "KON KWA KARDWARE TRADING",
+        "confidence": 0.8735
+    },
+    "date": {
+        "value": "3-43-01",
+        "confidence": 0.52
+    },
+    "items": [],
+    "total_amount": {
+        "value": "281.32",
+        "confidence": 0.9505
+    },
+    "flags": [
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "Banh Mi CafE",
+        "confidence": 0.8184
+    },
+    "date": {
+        "value": "29-10-017",
+        "confidence": 1.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": "23.26",
+        "confidence": 0.7123
+    },
+    "flags": []
+}

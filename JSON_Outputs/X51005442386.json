@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "hos/x",
+        "confidence": 0.1215
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "21 Mar 2018",
+            "price": "17.59",
+            "confidence": 0.49
+        }
+    ],
+    "total_amount": {
+        "value": "87.10",
+        "confidence": 0.6908
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

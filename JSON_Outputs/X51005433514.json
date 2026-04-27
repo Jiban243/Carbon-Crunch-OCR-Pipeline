@@ -1,0 +1,25 @@
+{
+    "store_name": {
+        "value": "Nu 30n7",
+        "confidence": 0.356
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [
+        {
+            "name": "03 Mar 2018",
+            "price": "18.22",
+            "confidence": 0.58
+        }
+    ],
+    "total_amount": {
+        "value": "88.20",
+        "confidence": 0.6071
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

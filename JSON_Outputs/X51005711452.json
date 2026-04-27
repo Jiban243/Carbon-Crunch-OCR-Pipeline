@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "118",
+        "confidence": 0.9999
+    },
+    "date": {
+        "value": "21-03-2018",
+        "confidence": 0.87
+    },
+    "items": [
+        {
+            "name": "No.3 . Jalan SS21/400 Petaling",
+            "price": "39.47",
+            "confidence": 0.45
+        }
+    ],
+    "total_amount": {
+        "value": "39.47",
+        "confidence": 0.4496
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "store_name": {
+        "value": "NYONYA",
+        "confidence": 0.9997
+    },
+    "date": {
+        "value": "18-03-2018",
+        "confidence": 0.8
+    },
+    "items": [
+        {
+            "name": "7.JIn SS21/400",
+            "price": "34.47",
+            "confidence": 0.73
+        }
+    ],
+    "total_amount": {
+        "value": "34.47",
+        "confidence": 0.7264
+    },
+    "flags": []
+}

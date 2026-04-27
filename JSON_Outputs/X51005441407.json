@@ -1,0 +1,16 @@
+{
+    "store_name": {
+        "value": "Geoventure",
+        "confidence": 0.9996
+    },
+    "date": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "items": [],
+    "total_amount": {
+        "value": null,
+        "confidence": 0.0
+    },
+    "flags": []
+}

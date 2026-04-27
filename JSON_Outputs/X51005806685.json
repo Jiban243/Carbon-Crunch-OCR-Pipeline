@@ -1,0 +1,18 @@
+{
+    "store_name": {
+        "value": "ADVANCO COMPANY",
+        "confidence": 0.9989
+    },
+    "date": {
+        "value": "8-08-53",
+        "confidence": 0.87
+    },
+    "items": [],
+    "total_amount": {
+        "value": "350.00",
+        "confidence": 0.5833
+    },
+    "flags": [
+        "LOW_CONFIDENCE_TOTAL"
+    ]
+}

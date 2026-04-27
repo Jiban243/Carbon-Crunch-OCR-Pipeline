@@ -1,0 +1,19 @@
+{
+    "store_name": {
+        "value": "Eyafdia Heat?;Fed Faaty &tn End",
+        "confidence": 0.0455
+    },
+    "date": {
+        "value": "04-05-18",
+        "confidence": 0.54
+    },
+    "items": [],
+    "total_amount": {
+        "value": "16.14",
+        "confidence": 0.7249
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME",
+        "LOW_CONFIDENCE_DATE"
+    ]
+}

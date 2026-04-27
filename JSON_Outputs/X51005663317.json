@@ -1,0 +1,24 @@
+{
+    "store_name": {
+        "value": "2 !8 1 2 012",
+        "confidence": 0.3822
+    },
+    "date": {
+        "value": "29-12-2017",
+        "confidence": 0.94
+    },
+    "items": [
+        {
+            "name": "58 7191",
+            "price": "03.62",
+            "confidence": 0.48
+        }
+    ],
+    "total_amount": {
+        "value": "11.41",
+        "confidence": 0.7372
+    },
+    "flags": [
+        "LOW_CONFIDENCE_STORE_NAME"
+    ]
+}
